@@ -1,0 +1,14 @@
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\bin\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.exe
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\bin\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.deps.json
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\bin\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.runtimeconfig.json
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\bin\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\bin\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.pdb
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.AssemblyInfoInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.AssemblyInfo.cs
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.csproj.CoreCompileInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\refint\ConsoleExpandingMethodsOfWorkingWithWords 001.dll
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.pdb
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ConsoleExpandingMethodsOfWorkingWithWords 001.genruntimeconfig.cache
+C:\Work\Visual Studio 2013\Work\Net9\ConsoleExpandingMethodsOfWorkingWithWords 001\ConsoleExpandingMethodsOfWorkingWithWords 001\obj\Release\net9.0\ref\ConsoleExpandingMethodsOfWorkingWithWords 001.dll
