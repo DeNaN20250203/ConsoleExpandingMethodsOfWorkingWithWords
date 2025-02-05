@@ -9,8 +9,8 @@ namespace ConsoleExpandingMethodsOfWorkingWithWords_001
 		/// Метод, GetValueRefOrNullRef, позволяет обновлять значение по ключу, если оно существует:
 		/// </summary>
 		public static bool TryUpdate<TKey, TValue>(this Dictionary<TKey, TValue> dict,
-															TKey key,
-															TValue value)
+								TKey key,
+								TValue value)
 			where TKey : notnull
 		{
 			ref var dictVal = ref CollectionsMarshal.GetValueRefOrNullRef(dict, key);
@@ -29,8 +29,8 @@ namespace ConsoleExpandingMethodsOfWorkingWithWords_001
 		/// Поскольку метод возвращает ссылку, вы можете обновить значение:
 		/// </summary>
 		public static TValue GetOrAdd<TKey, TValue>(this Dictionary<TKey, TValue> dict,
-															TKey key,
-															TValue value)
+								TKey key,
+								TValue value)
 			where TKey : notnull
 		{
 			ref var dictVal = ref CollectionsMarshal.GetValueRefOrAddDefault(dict, key, out var exists);
